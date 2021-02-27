@@ -1,0 +1,46 @@
+Artists{
+    color: #ff0000;
+    
+}
+header, band, date, Artists, Title, Genre, Year { 
+     display : block; 
+     font-size: 18px;
+     font-family: "Courier New";
+} 
+Artists, Genre, Year {
+    padding-bottom: 30px;
+}
+Artists, Title {
+    padding-left: 25px;
+}
+Artists{
+    display: inline-block;
+}
+header{
+    font-size: 40px;
+    text-align: center;
+}
+band{
+    font-size:30px;
+    text-align: center;
+}
+date{
+    font-size: 25px;
+    text-align: center;
+}
+Title{
+    font-weight: bold;
+    font-size: 22px;
+}
+Year, Genre{
+    display: inline;
+}
+Year:before{
+    content: ", ";
+}
+Genre:before{
+    content:"(";
+}
+Year:after{
+    content:")";
+}

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="songs.css"?>
+<Songs>
+    <header>Setlist</header>
+    <band>Full Coverage Band</band>
+    <date>March 1, 2021</date>
+    <Song>
+        <Title>Cash Machine</Title>
+        <Artists>
+            <Artist>Oliver Tree</Artist>
+        </Artists>
+        <Genre>Alternative</Genre>
+        <Year>2020</Year>
+    </Song>
+    
+    <Song>
+        <Title>Devil Town</Title>
+        <Artists>
+            <Artist>Cavetown</Artist>
+        </Artists>
+        <Genre>Folk Pop</Genre>
+        <Year>2015</Year>
+    </Song>
+    
+    <Song>
+        <Title>Empty</Title>
+        <Artists>
+            <Artist>Kevin Abstract</Artist>
+        </Artists>
+        <Genre>Alternative Hip Hop</Genre>
+        <Year>2016</Year>
+    </Song>
+    
+    <Song>
+        <Title>Strong</Title>
+        <Artists>
+            <Artist>One Direction</Artist>
+        </Artists>
+        <Genre>Pop</Genre>
+        <Year>2013</Year>
+    </Song>
+    
+    <Song>
+        <Title>House of the Rising Sun</Title>
+        <Artists>
+            <Artist>The Animals</Artist>
+        </Artists>
+        <Genre>Rock</Genre>
+        <Year>1966</Year>
+    </Song>
+    
+    <Song>
+        <Title>Rich Girl</Title>
+        <Artists>
+            <Artist>Daryl Hall</Artist>
+            <Artist>John Oates</Artist>
+        </Artists>
+        <Genre>Blue-eyed Soul</Genre>
+        <Year>1976</Year>
+    </Song>
+    
+    <Song>
+        <Title>Telescope</Title>
+        <Artists>
+            <Artist>Cage the Elephant</Artist>
+        </Artists>
+        <Genre>Alternative</Genre>
+        <Year>2013</Year>
+    </Song>
+    
+    <Song>
+        <Title>White Ferrari</Title>
+        <Artists>
+            <Artist>Frank Ocean</Artist>
+        </Artists>
+        <Genre>Neo Soul</Genre>
+        <Year>2016</Year>
+    </Song>
+    
+    <Song>
+        <Title>Wells Fargo</Title>
+        <Artists>
+            <Artist>Dreamville</Artist>
+            <Artist>JAD</Artist>
+            <Artist>EARTHGANG</Artist>
+            <Artist>Buddy</Artist>
+            <Artist>Guapdad 4000</Artist>
+        </Artists>
+        <Genre>Hip Hop</Genre>
+        <Year>2020</Year>
+    </Song>
+    
+    <Song>
+        <Title>By and By</Title>
+        <Artists>
+            <Artist>Caamp</Artist>
+        </Artists>
+        <Genre>Folk</Genre>
+        <Year>2019</Year>
+    </Song>
+    
+</Songs>
